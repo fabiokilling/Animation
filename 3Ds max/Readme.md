@@ -23,3 +23,9 @@ Testing for ALC startup scripts
 
 callbacks.removeScripts()
 OK
+
+
+
+
+四足备忘：
+蜘蛛，可以全部bone搭建。做半边脚，一三前 二四后。左右边错一半帧。
