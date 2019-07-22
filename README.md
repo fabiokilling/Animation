@@ -24,3 +24,6 @@ MAX的CS骨骼由于默认是使用了四分角的算法，所以会自动过渡
 
 
 http://bbs.game798.com/showtopic-111343-2.html
+
+
+Mixamo网站
